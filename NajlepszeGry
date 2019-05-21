@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>Najlepsze gry komputerowe</title>
+	<meta name="description" content="Serwis prezentuje subiektywne top 5 seriali telewizyjnych. Sprawdź, czy znasz je wszystkie" />
+	<meta name="keywords" content="TOP 5, Gry, Komputer" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{
+		float: left;
+		background-color: gray;
+		width: 120px;
+		min-height: 620px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+	#ad
+	{
+		float: left;
+		width: 160px;
+		min-height: 620px;
+		padding: 10px;
+		background-color: gray;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Najlepsze gry</h1>
+		</div>
+	
+		<div id="nav">
+			<a href="https://www.youtube.com/embed/p5VD49suIUw""> CSGO </a></br>
+			<a href="https://www.youtube.com/watch?v=SL98sclsnok"> BF3 </a></br>
+			<a href="https://www.youtube.com/watch?v=2l_V1mlOn34"> FARCRY </a></br>
+			<a href="https://www.youtube.com/watch?v=d74REG039Dk"> GTA5 </a></br>
+			<a href="https://www.youtube.com/watch?v=dpuy6OBrTTU"> NFS </a></br>
+		</div>
+		
+		<div id="content">
+			<h2>Jest to tylko moja subiektywna ocena :)</h2>
+			
+		1. Counter Strike: Global Offensive<br />
+		2. Battlefield <br />
+		3. Far Cry<br /> 
+		4. Gta 5<br />
+		5. Need For Speed<br />
+		<img src="Grafika/pobrane.jpg" width="160" /><br />
+		
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/edYCtaNueQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		
+		<div id="ad">
+			
+		<img src="Grafika/RTV-Euro-AGD.jpg" width="160" />
+		<img src="Grafika/SUBSCRIBE-TO-PEWDIEPIE-775604866.jpg" width="160" />
+		</div>
+		<br>
+		
+		<div id="footer">
+			Najlepsze gry - TOP 5! &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+
+</body>
+</html>
